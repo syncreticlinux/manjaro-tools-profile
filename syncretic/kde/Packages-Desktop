@@ -384,7 +384,7 @@ ocs-url
 plasma5-applets-simplemenu
 plasma5-applets-volumewin7mixer
 # firefox-extension-add-to-search-bar
-firefox-extension-ublock-origin
+# firefox-extension-ublock-origin
 skypeforlinux-bin
 
 ## KDE PIM
