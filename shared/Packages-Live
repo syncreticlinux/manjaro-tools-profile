@@ -2,7 +2,7 @@ calamares
 manjaro-live-skel
 mkinitcpio-nfs-utils
 nbd
-# >manjaro grub-theme-live-manjaro
+grub-theme-live-syncretic
 >sonar grub-theme-live-sonar
 >sonar sonar-calamares-branding
 squashfs-tools
