@@ -360,7 +360,7 @@ default-settings-session-debug
 default-settings-thunderbird
 default-settings-xdg-user-dirs
 default-settings-xsession
-default-systemsettings-settings-rolling
+default-systemsettings-settings
 
 ## Extra and support packages
 qtcurve-gtk2
