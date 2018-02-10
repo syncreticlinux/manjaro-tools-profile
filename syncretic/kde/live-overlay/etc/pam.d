@@ -1,1 +1,1 @@
-../../../../shared/syncretic/live-overlay/etc/pam.d
+../../../../shared/manjaro/live-overlay/etc/pam.d
