@@ -267,7 +267,8 @@ inxi
 >extra firefox
 # >basic qupzilla
 >extra flashplugin
->extra libreoffice-still
+>extra libreoffice-fresh
+hunspell-en
 # manjaro-hello
 manjaro-settings-manager-kcm
 manjaro-settings-manager-knotifier
