@@ -363,6 +363,7 @@ default-settings-thunderbird
 default-settings-xdg-user-dirs
 default-settings-xsession
 default-systemsettings-settings
+syncretic-settings-theming
 
 ## Extra and support packages
 qtcurve-gtk2
