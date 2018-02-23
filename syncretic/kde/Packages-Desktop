@@ -264,7 +264,9 @@ imagewriter
 >extra inkscape
 inxi
 >extra krita
->extra firefox
+firefox
+firefox-i18n-en-us
+thunderbird-i18n-en-us
 # >basic qupzilla
 >extra flashplugin
 >extra libreoffice-fresh
@@ -388,6 +390,10 @@ plasma5-applets-volumewin7mixer
 # firefox-extension-add-to-search-bar
 # firefox-extension-ublock-origin
 skypeforlinux-stable-bin
+aspell-en
+gimp-help-en
+hyphen-en
+qt5-translations
 
 ## KDE PIM
 #akonadiconsole
