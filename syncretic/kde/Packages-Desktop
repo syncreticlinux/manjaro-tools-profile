@@ -345,7 +345,8 @@ xdg-desktop-portal-kde
 ## Artwork packages
 artwork-color-scheme-carbon
 artwork-numarceeze-icons
-artwork-sddm-simple	
+artwork-sddm-simple
+syncretic-sddm-theme
 artwork-whiteclassicia-cursor
 artwork-windows-cursor
 carbon-gtk2
