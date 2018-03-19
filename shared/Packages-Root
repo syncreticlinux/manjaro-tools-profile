@@ -44,6 +44,7 @@ lsb-release
 man-db
 manjaro-firmware
 # >manjaro manjaro-release
+syncretic-release
 manjaro-system
 man-pages
 memtest86+
