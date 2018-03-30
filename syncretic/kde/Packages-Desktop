@@ -12,7 +12,7 @@ mobile-broadband-provider-info
 modemmanager
 openresolv
 openssh
-samba
+#samba
 usb_modeswitch
 net-tools
 
@@ -369,6 +369,8 @@ default-settings-xdg-user-dirs
 default-settings-xsession
 default-systemsettings-settings
 syncretic-settings-theming
+manjaro-settings-samba
+syncretic-zsh-config
 
 ## Extra and support packages
 qtcurve-gtk2
