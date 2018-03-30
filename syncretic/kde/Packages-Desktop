@@ -269,7 +269,7 @@ firefox
 firefox-i18n-en-us
 thunderbird-i18n-en-us
 # >basic qupzilla
->extra flashplugin
+#>extra flashplugin
 >extra libreoffice-fresh
 hunspell-en
 # manjaro-hello
