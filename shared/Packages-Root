@@ -17,7 +17,7 @@ ecryptfs-utils
 exfat-utils
 f2fs-tools
 file
-filesystem
+syncretic-filesystem
 findutils
 gawk
 gcc-libs
