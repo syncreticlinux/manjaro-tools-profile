@@ -103,6 +103,7 @@ steam
 steam-native-runtime
 
 ## Package management
+packagekit-qt5
 octopi
 octopi-notifier-frameworks
 octopi-cachecleaner
@@ -157,6 +158,7 @@ systemsettings
 # user-manager
 
 ## Themes QT/GTK/SDDM
+breeze
 breeze-gtk
 gnome-icon-theme
 # gnome-themes-standard
@@ -258,28 +260,28 @@ poppler-data  # encoding data to display PDF documents containing CJK characters
 
 ## Applications
 # >extra cantata
+amarok
+corebird
 dmidecode # for inxi -m output
 htop
 #isowriter
 imagewriter
->extra inkscape
+inkscape
 inxi
->extra krita
-firefox
+krita
+falkon
+firefox-kde-opensuse
 firefox-i18n-en-us
 thunderbird-i18n-en-us
-# >basic qupzilla
-#>extra flashplugin
 libreoffice-fresh-syncretic
 hunspell-en_US
 # manjaro-hello
 manjaro-settings-manager-kcm
 manjaro-settings-manager-knotifier
 powertop
-# >extra qbittorrent
 screenfetch
 systemd-kcm
->extra thunderbird
+thunderbird
 # vlc-nightly
 vlc
 yakuake
@@ -338,6 +340,9 @@ xdg-utils
 ## Misc
 manjaro-hotfixes
 
+## Appimage support
+appimagelauncher
+
 ## Flatpak support
 flatpak
 xdg-desktop-portal
@@ -346,7 +351,7 @@ xdg-desktop-portal-kde
 ## Artwork packages
 artwork-color-scheme-carbon
 artwork-numarceeze-icons
-artwork-sddm-simple
+artwork-sddm-simplekaddressbook
 syncretic-sddm-theme
 syncretic-artwork-icons
 artwork-whiteclassicia-cursor
@@ -381,8 +386,6 @@ qt5-quickcontrols2
 qt5-websockets
 quota-tools
 kross-interpreters
-gnome-software
-wget
 imwheel
 perl-glib-object-introspection
 ttf-ms-fonts
@@ -411,10 +414,10 @@ qt5-translations
 #korganizer
 
 ## KDE Telepathy
-#telepathy-kde-meta
-#telepathy-gabble
-#telepathy-farstream
-#telepathy-haze
-#telepathy-idle
-#telepathy-morse
-#telepathy-rakia
+telepathy-kde-meta
+telepathy-gabble
+telepathy-farstream
+telepathy-haze
+telepathy-idle
+telepathy-morse
+telepathy-rakia
