@@ -164,7 +164,6 @@ gnome-icon-theme
 # gnome-themes-standard
 # gtk-theme-breath
 >extra oxygen
->extra oxygen-kde4
 >extra oxygen-icons
 # plasma5-themes-breath  # Default
 # sddm-breath-theme  # Default
@@ -274,7 +273,6 @@ firefox-kde-opensuse
 firefox-i18n-en-us
 thunderbird-i18n-en-us
 libreoffice-fresh-syncretic
-hunspell-en_US
 # manjaro-hello
 manjaro-settings-manager-kcm
 manjaro-settings-manager-knotifier
@@ -401,6 +399,8 @@ skypeforlinux-stable-bin
 aspell-en
 gimp-help-en
 hyphen-en
+hunspell-en_US
+vim-spell-en
 qt5-translations
 
 ## KDE PIM
