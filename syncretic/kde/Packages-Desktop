@@ -157,6 +157,7 @@ systemsettings
 # user-manager
 
 ## Themes QT/GTK/SDDM
+desktop-theme-syncretism
 breeze
 breeze-gtk
 gnome-icon-theme
