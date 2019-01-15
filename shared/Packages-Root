@@ -30,6 +30,7 @@ grub
 gzip
 inetutils
 intel-ucode
+amd-ucode
 iproute2
 iptables
 iputils
