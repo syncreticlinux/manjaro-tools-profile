@@ -1,10 +1,9 @@
 calamares
+gsmartcontrol
 manjaro-live-skel
 mkinitcpio-nfs-utils
 nbd
 grub-theme-live-syncretic
->sonar grub-theme-live-sonar
->sonar sonar-calamares-branding
 squashfs-tools
 manjaro-live-systemd
->sonar thus
+clonezilla

@@ -30,7 +30,6 @@ grub
 gzip
 inetutils
 intel-ucode
-amd-ucode
 iproute2
 iptables
 iputils
@@ -52,7 +51,6 @@ man-pages
 memtest86+
 mhwd
 mhwd-db
-mhwd-i2c-syna3602
 mkinitcpio-openswap
 nano
 ntfs-3g
@@ -67,7 +65,6 @@ sed
 shadow
 spectre-meltdown-checker
 s-nail
->sonar sonar-release
 sudo
 sysfsutils
 acpid
@@ -94,6 +91,5 @@ wget
 which
 xfsprogs
 zsh
-
 tk
 grub-theme-syncretic
