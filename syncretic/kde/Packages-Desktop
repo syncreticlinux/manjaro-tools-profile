@@ -76,7 +76,7 @@ pkg-config
 >extra git
 >extra patchutils
 >extra subversion
-yaourt
+yay
 
 ## Fonts
 # cantarell-fonts        # Installed as gnome-themes-standard dependency
