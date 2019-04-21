@@ -260,7 +260,6 @@ poppler-data  # encoding data to display PDF documents containing CJK characters
 ## Applications
 # >extra cantata
 amarok
-corebird
 dmidecode # for inxi -m output
 htop
 #isowriter
