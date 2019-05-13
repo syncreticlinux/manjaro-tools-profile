@@ -269,7 +269,7 @@ inxi
 krita
 falkon
 firefox-kde-opensuse
-firefox-i18n-en-us
+#firefox-i18n-en-us
 thunderbird-i18n-en-us
 libreoffice-fresh-syncretic
 # manjaro-hello
