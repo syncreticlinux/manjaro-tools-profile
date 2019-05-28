@@ -6,7 +6,10 @@ btrfs-progs
 bzip2
 coreutils
 crda
+cronie
+cryptsetup
 curl
+device-mapper
 dhclient
 diffutils
 dmraid
@@ -49,6 +52,7 @@ manjaro-firmware
 syncretic-release
 manjaro-system
 man-pages
+mdadm
 memtest86+
 mhwd
 mhwd-db
@@ -68,6 +72,7 @@ spectre-meltdown-checker
 s-nail
 sudo
 sysfsutils
+systemd-fsck-silent
 acpid
 cpupower
 cronie

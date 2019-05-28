@@ -5,7 +5,6 @@ networkmanager-openconnect
 networkmanager-openvpn
 networkmanager-pptp
 networkmanager-vpnc
-networkmanager-dispatcher-ntpd
 nss-mdns # NSS support for mDNS (optdepend for avahi)
 ntp
 mobile-broadband-provider-info
@@ -171,7 +170,6 @@ oxygen-gtk2
 gnome-icon-theme-extras
 
 ## Better systray/notifications support
->extra sni-qt  # A Qt plugin that enables tray icons in qt4 applications
 libappindicator-gtk2
 libappindicator-gtk3
 libappindicator-sharp
@@ -268,7 +266,7 @@ inkscape
 inxi
 krita
 falkon
-firefox-kde-opensuse
+firefox
 #firefox-i18n-en-us
 thunderbird-i18n-en-us
 libreoffice-fresh-syncretic
@@ -323,16 +321,26 @@ xf86-input-synaptics
 xf86-input-void
 
 ## Xorg Server and Graphics
+>multilib lib32-libva-intel-driver
+>multilib lib32-libva-mesa-driver
+>multilib lib32-libva-vdpau-driver
+libva-intel-driver
+libva-mesa-driver
+libva-vdpau-driver
+mesa-demos
+>multilib lib32-mesa-demos
+numlockx
 xdg-user-dirs
 xorg-server
 xorg-twm
 xorg-xinit
-mesa-demos
->multilib lib32-mesa-demos
+xorg-xkill
+
 
 ## Desktop Utils
 perl-file-mimeinfo
 xdg-utils
+xdg-su
 
 ## Misc
 manjaro-hotfixes
@@ -376,7 +384,6 @@ syncretic-zsh-config
 ## Extra and support packages
 qtcurve-gtk2
 qtcurve-kde
-qtcurve-qt4
 qtcurve-utils
 qt5-quickcontrols2
 qt5-websockets
