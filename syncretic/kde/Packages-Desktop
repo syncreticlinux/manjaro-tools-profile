@@ -104,8 +104,7 @@ steam-native-runtime
 packagekit-qt5
 octopi
 octopi-notifier-frameworks
-octopi-cachecleaner
-octopi-repoeditor
+octopi-notifier-qt5
 
 ## Printing
 >extra cups
